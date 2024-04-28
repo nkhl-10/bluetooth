@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Classic  Bluetooth</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="available_devices">Available Devices</string>
+    <string name="scan_bluetooth_available">Scan Available Devices</string>
+    <string name="discoverable">Discoverable</string>
+</resources>
